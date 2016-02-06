@@ -1,0 +1,3 @@
+.classpath
+.project
+file1.txt
